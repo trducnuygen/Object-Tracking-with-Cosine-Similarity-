@@ -1,4 +1,4 @@
-# Object-Tracking-with-Cosine-Similarity
+# Object Tracking with Cosine Similarity
 
 ## 1. Introduction
 
@@ -6,7 +6,7 @@ This is a university project, under the supervision of Professor Dinh Quang Vinh
 
 ### 1.1   Goal
 
-Inputting images and a template, the goal is to track the template throughout 64 images by using cosine similarity algorithm. The template used in an image is updated to be the templated tracked in the previous image.
+Inputting images and a template, the goal is to track the template throughout 64 images by using cosine similarity algorithm and create a bounding box at the region predicted to be the template. The template used in an image is updated to be the templated tracked in the previous image. 
 
 ### 1.2  Dataset
 
