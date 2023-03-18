@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1667204089 source:d:\code\testing\c\object tracking\tracking.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"./stb_image.h"
+	"./stb_image_write.h"
+
+1667189871 d:\code\testing\c\object tracking\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1667189932 d:\code\testing\c\object tracking\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+

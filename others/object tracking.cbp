@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="object tracking" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/object tracking" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/object tracking" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../background.jpeg" />
+		<Unit filename="../foreground.jpeg" />
+		<Unit filename="../images/img0.jpg" />
+		<Unit filename="../images/img1.jpg" />
+		<Unit filename="../images/img10.jpg" />
+		<Unit filename="../images/img11.jpg" />
+		<Unit filename="../images/img12.jpg" />
+		<Unit filename="../images/img13.jpg" />
+		<Unit filename="../images/img14.jpg" />
+		<Unit filename="../images/img15.jpg" />
+		<Unit filename="../images/img16.jpg" />
+		<Unit filename="../images/img17.jpg" />
+		<Unit filename="../images/img18.jpg" />
+		<Unit filename="../images/img19.jpg" />
+		<Unit filename="../images/img2.jpg" />
+		<Unit filename="../images/img20.jpg" />
+		<Unit filename="../images/img21.jpg" />
+		<Unit filename="../images/img22.jpg" />
+		<Unit filename="../images/img23.jpg" />
+		<Unit filename="../images/img24.jpg" />
+		<Unit filename="../images/img25.jpg" />
+		<Unit filename="../images/img26.jpg" />
+		<Unit filename="../images/img27.jpg" />
+		<Unit filename="../images/img28.jpg" />
+		<Unit filename="../images/img29.jpg" />
+		<Unit filename="../images/img3.jpg" />
+		<Unit filename="../images/img30.jpg" />
+		<Unit filename="../images/img31.jpg" />
+		<Unit filename="../images/img32.jpg" />
+		<Unit filename="../images/img33.jpg" />
+		<Unit filename="../images/img34.jpg" />
+		<Unit filename="../images/img35.jpg" />
+		<Unit filename="../images/img36.jpg" />
+		<Unit filename="../images/img37.jpg" />
+		<Unit filename="../images/img38.jpg" />
+		<Unit filename="../images/img39.jpg" />
+		<Unit filename="../images/img4.jpg" />
+		<Unit filename="../images/img40.jpg" />
+		<Unit filename="../images/img41.jpg" />
+		<Unit filename="../images/img42.jpg" />
+		<Unit filename="../images/img43.jpg" />
+		<Unit filename="../images/img44.jpg" />
+		<Unit filename="../images/img45.jpg" />
+		<Unit filename="../images/img46.jpg" />
+		<Unit filename="../images/img47.jpg" />
+		<Unit filename="../images/img48.jpg" />
+		<Unit filename="../images/img49.jpg" />
+		<Unit filename="../images/img5.jpg" />
+		<Unit filename="../images/img50.jpg" />
+		<Unit filename="../images/img51.jpg" />
+		<Unit filename="../images/img52.jpg" />
+		<Unit filename="../images/img53.jpg" />
+		<Unit filename="../images/img54.jpg" />
+		<Unit filename="../images/img55.jpg" />
+		<Unit filename="../images/img56.jpg" />
+		<Unit filename="../images/img57.jpg" />
+		<Unit filename="../images/img58.jpg" />
+		<Unit filename="../images/img59.jpg" />
+		<Unit filename="../images/img6.jpg" />
+		<Unit filename="../images/img60.jpg" />
+		<Unit filename="../images/img61.jpg" />
+		<Unit filename="../images/img62.jpg" />
+		<Unit filename="../images/img7.jpg" />
+		<Unit filename="../images/img8.jpg" />
+		<Unit filename="../images/img9.jpg" />
+		<Unit filename="../new_background.jpeg" />
+		<Unit filename="../template.jpg" />
+		<Unit filename="bmp.h" />
+		<Unit filename="object tracking.h" />
+		<Unit filename="stb_image.h" />
+		<Unit filename="stb_image_write.h" />
+		<Unit filename="tracking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
